@@ -3,7 +3,10 @@
 
 
 
-![image](https://github.com/dongpeng66/RZBubbleView/xia.png)
+![image](https://github.com/dongpeng66/RZBubbleView/blob/master/shang.png)
+![image](https://github.com/dongpeng66/RZBubbleView/blob/master/xia.png)
+![image](https://github.com/dongpeng66/RZBubbleView/blob/master/zuo.png)
+![image](https://github.com/dongpeng66/RZBubbleView/blob/master/you.png)
 
 </br>
 
