@@ -1,10 +1,9 @@
 # RZBubbleView
-,,,,,,,,气泡提示框自动消失
-
-#先说一下，本人就在昨天刷微博的时候无意间截屏了一下发现了这样一个效果</br>
+气泡提示框,自动消失</br>
 
 
-![image](https://github.com/dongpeng66/DPScreenshots/blob/master/weixin.gif)
+
+![image](https://github.com/dongpeng66/RZBubbleView/xia.png)
 
 </br>
 
